@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["bugloper"]
   spec.email = ["bugloper@gmail.com"]
 
-  spec.summary = "A Ruby-based NeoVim clone for seamless text editing."
-  spec.description = "RVim is a NeoVim clone written in Ruby, offering similar features and configurations. It aims to provide a powerful and customizable text editing experience with the flexibility of Ruby scripting." # rubocop:disable Layout/LineLength
+  spec.summary = "A Ruby-based NeoVim clone for text editing."
+  spec.description = "ruvim is a NeoVim clone written in Ruby, offering similar features and configurations. It aims to provide a powerful and customizable text editing experience with the flexibility of Ruby scripting." # rubocop:disable Layout/LineLength
   spec.homepage = "https://github.com/bugloper/ruvim"
   spec.required_ruby_version = ">= 3.0.0"
 
